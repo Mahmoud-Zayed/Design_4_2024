@@ -1528,3 +1528,17 @@ textarea {
     }
 }
 /* End Animation */ 
+
+
+
+/* Start Create Page Scroll Progress*/
+.scroller {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 5px;
+    background-color: var(--blue-color);
+    z-index: 20;
+}
+/* End Create Page Scroll Progress */
